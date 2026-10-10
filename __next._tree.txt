@@ -1,3 +1,3 @@
 :HL["/_next/static/css/198496fe2ac330ce.css","style"]
 :HL["https://ik.imagekit.io/chinesefonts7/packages/hqzmt/dist/Hangeuljaemin4-Regular/result.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"md_dvxeWRzI47JJjjL2VU"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"nfmk6Tslo7qObQifNwDlq"}
